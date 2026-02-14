@@ -1,5 +1,5 @@
 {
-  "name": "HardyMaxime/static-page-for-posttype",
+  "name": "hardymaxime/static-page-for-posttype",
   "type": "wordpress-plugin",
   "require": {
     "composer/installers": "^2.0"
